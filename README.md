@@ -1,3 +1,16 @@
+# Markdown
+## A great way to communicateand learn the basics
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```HTML
+<h1>Enjoy Learing GitHub!<h1/>
+
+```
+- [x] Add Headers
+- [x] Add an image
+- [x] Add a Code snippet
+- [x] Make a Task List
+- [x] Merge the Pull request
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
