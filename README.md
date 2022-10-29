@@ -10,7 +10,7 @@
 - [x] Add an image
 - [x] Add a Code snippet
 - [x] Make a Task List
-- [ ] Merge the Pull request
+- [x] Merge the Pull request
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
